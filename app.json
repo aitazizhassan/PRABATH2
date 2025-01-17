@@ -13,7 +13,7 @@
 
     "SESSION_ID": {
       "description": "PRABATH-MD~fLgznJAI#Y-xws71bVBNsAlZjx8X6QWmmt6ahfv8Cqt--Q0wvhWk",
-      "required": false
+      "required": true
     },  
 
 
