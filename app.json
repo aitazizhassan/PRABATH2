@@ -7,18 +7,18 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "212638782172.",
+      "description": "212638782172",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "PRABATH-MD~fLgznJAI#Y-xws71bVBNsAlZjx8X6QWmmt6ahfv8Cqt--Q0wvhWk.",
+      "description": "PRABATH-MD~fLgznJAI#Y-xws71bVBNsAlZjx8X6QWmmt6ahfv8Cqt--Q0wvhWk",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "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.",
+      "description": "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",
       "required": true
     }   
 },
